@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppPeliculas</string>
+    <string name="most_Popular">Most Popular</string>
+    <string name="playing_now"> Playing Now</string>
+</resources>
